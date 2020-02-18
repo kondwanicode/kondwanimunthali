@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome ! I am Kondwani Munthali, a computer programmer
 
-You can use the [editor on GitHub](https://github.com/kondwanicode/kondwanimunthali/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a freelance programmer by night. By day i work with Airtel Malawi in CX-Department. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have a Bachalers Degree in Information Communication Technology that i obtained from Mzuzu University in 2018 and a diploma in Information and Communication Technology from the same institution obtained in 2016. I am so passionate about technology and i am good at programming and networking. Some of my core languages are PHP, Java,javascript and i am conversant with Mysql and database management.
 
 ### Markdown
 
