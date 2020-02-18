@@ -8,10 +8,10 @@ I have a Bachalers Degree in Information Communication Technology that i obtaine
 Some of my core languages are PHP, Java,javascript and i am conversant with Mysql and database management.
 
 ### Core skills
-- Knowledge about hardware
--Experience in solving real life problems
--Good grasp at soft skills in an environment
--Bussiness lnowledge
+- Knowledge about hardware<br>
+- Experience in solving real life problems<br>
+- Good grasp at soft skills in an environment<br>
+- Bussiness lnowledge<br>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
