@@ -1,6 +1,8 @@
 # Welcome! 
 ## I am Kondwani Munthali (computer programmer)
 
+
+
 a freelance programmer by night. By day i work with Airtel Malawi in CX-Department in Malawi,Mzuzu. 
 
 I have a Bachalers Degree in Information Communication Technology that i obtained from Mzuzu University in 2018 and a diploma in Information and Communication Technology from the same institution obtained in 2016. I am so passionate about technology and i am good at programming and networking. 
