@@ -1,7 +1,7 @@
-## Welcome! 
-I am Kondwani Munthali (computer programmer)
+# Welcome! 
+## I am Kondwani Munthali (computer programmer)
 
-I am a freelance programmer by night. By day i work with Airtel Malawi in CX-Department in Malawi,Mzuzu. 
+a freelance programmer by night. By day i work with Airtel Malawi in CX-Department in Malawi,Mzuzu. 
 
 I have a Bachalers Degree in Information Communication Technology that i obtained from Mzuzu University in 2018 and a diploma in Information and Communication Technology from the same institution obtained in 2016. I am so passionate about technology and i am good at programming and networking. 
 
@@ -11,7 +11,20 @@ Some of my core languages are PHP, Java,javascript and i am conversant with Mysq
 - Knowledge about hardware<br>
 - Experience in solving real life problems<br>
 - Good grasp at soft skills in an environment<br>
-- Bussiness lnowledge<br>
+- Bussiness knowledge<br>
+  -project management
+  -system adminstration
+- Programing knowledge<br>
+  -PHP
+  -javascript
+  -java
+  -c++
+  -SQL
+  -markdown
+- 
+ 
+  
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
