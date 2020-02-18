@@ -30,7 +30,6 @@ Some of my core languages are PHP, Java,javascript and i am conversant with Mysq
 -	Communication skills
 -	Algorithm and data structures
 
- 
   
 ![GitHub Logo](/me.jpg)
 
@@ -57,13 +56,11 @@ Some of my core languages are PHP, Java,javascript and i am conversant with Mysq
 
 **2016-2017:** Worked as assistant lecturer at Lutheran church based computing school.
 **DUTIES:**
--	Teach all Microsoft packages. 
+- Teach all Microsoft packages. 
 -	Teach computer networks basics.
 -	Teach computer maintenance and repair.
 -	Teach database management.
 -	Teach web programming (php, css, JavaScript, html etc). 
-
-
 
 ### Contact
  **Phone:** +265993210084 / +265881921726  **Email:** ko.munthali@gmail.com                  
