@@ -26,7 +26,7 @@ Some of my core languages are PHP, Java,javascript and i am conversant with Mysq
 - 
  
   
-
+![GitHub Logo](/me.jpg)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
