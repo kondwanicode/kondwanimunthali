@@ -7,7 +7,7 @@ I have a Bachalers Degree in Information Communication Technology that i obtaine
 
 Some of my core languages are PHP, Java,javascript and i am conversant with Mysql and database management.
 
-![GitHub Logo](/mobile-devices.png)
+![GitHub Logo](/mobile-devices.PNG)
 
 ### Core skills
 - Knowledge about hardware
