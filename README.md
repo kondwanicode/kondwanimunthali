@@ -10,47 +10,40 @@ I have a Bachalers Degree in Information Communication Technology that i obtaine
 Some of my core languages are PHP, Java,javascript and i am conversant with Mysql and database management.
 
 ### Core skills
-- Knowledge about hardware<br>
-- Experience in solving real life problems<br>
-- Good grasp at soft skills in an environment<br>
-- Bussiness knowledge<br>
-  -project management
-  -system adminstration
-- Programing knowledge<br>
-  -PHP
-  -javascript
-  -java
-  -c++
-  -SQL
-  -markdown
-- 
+- Knowledge about hardware
+- Experience in solving real life problems
+- Good grasp at soft skills in an environment
+- Bussiness knowledge
+  - project management
+  - system adminstration
+- Programing knowledge
+  - PHP
+  - javascript
+  - java
+  - c++
+  - SQL
+  - markdown<br>
+- Project management (Planning, Monitoring and Evaluation)
+-	Statistics (Statistics and probability,)
+-	Business management
+-	Research Methods (1and 2)
+-	Communication skills
+-	Algorithm and data structures
+
  
   
 ![GitHub Logo](/me.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Work Experience
 
-# Header 1
-## Header 2
-### Header 3
+- 2016-2017: Worked as teacher at Lutheran church based computing school.
+DUTIES:
+•	Teach all Microsoft packages 
+•	Teach computer networks basics
+•	Teach computer maintenance and repair
+•	Teach web programming (php, css, JavaScript, html) 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kondwanicode/kondwanimunthali/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
