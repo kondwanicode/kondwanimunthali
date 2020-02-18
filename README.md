@@ -7,7 +7,7 @@ I have a Bachalers Degree in Information Communication Technology that i obtaine
 
 Some of my core languages are PHP, Java,javascript and i am conversant with Mysql and database management.
 
-![GitHub Logo](/mobile-devices.jpg)
+![GitHub Logo](/mobile-devices.png)
 
 ### Core skills
 - Knowledge about hardware
@@ -36,7 +36,7 @@ Some of my core languages are PHP, Java,javascript and i am conversant with Mysq
 
 
 ### Work Experience
-2018-currently: CX representative at Airtel Malawi 
+**2018-currently:** CX representative at Airtel Malawi 
 **DUTIES:**
 -	Attending and resolving customers Complaints, queries and request
 -	Up-selling and cross selling Airtel products
@@ -45,17 +45,17 @@ Some of my core languages are PHP, Java,javascript and i am conversant with Mysq
 -	Daily, weekly and monthly sales reconciliation.
 -	Weekly and  monthly Stock reconciliation
 
-2017-2018: Worked with EXP. It’s an advertising company based in Blantyre sub-contracting with Coca-Cola and Illovo. 
+**2017-2018:** Worked with EXP. It’s an advertising company based in Blantyre sub-contracting with Coca-Cola and Illovo. 
 **DUTIES:**
-•	Geo tagging retailer’s location.
-•	Up and cross selling products.
-•	Bland sensitization.
-•	Bland promotion.
-•	Online supervision on customer response via social media platforms.
-•	Daily reports on customer response and expectations and queries. 
+- Geo tagging retailer’s location.
+-	Up and cross selling products.
+-	Bland sensitization.
+-	Bland promotion.
+-	Online supervision on customer response via social media platforms.
+-	Daily reports on customer response and expectations and queries. 
 
 
-- 2016-2017: Worked as assistant lecturer at Lutheran church based computing school.
+**2016-2017:** Worked as assistant lecturer at Lutheran church based computing school.
 **DUTIES:**
 •	Teach all Microsoft packages. 
 •	Teach computer networks basics.
@@ -66,13 +66,10 @@ Some of my core languages are PHP, Java,javascript and i am conversant with Mysq
 
 
 ### Contact
- **Phone:** +265993210084 / +265881921726                  **Address:** Kondwani Munthali
-                                                                        Airtel Malawi
-**Email:** ko.munthali@gmail.com                                        Mzuzu Branch
-                                                                        Private bag 145
-                                                                        Mzuzu
-                                      
-
-
- 
-
+ **Phone:** +265993210084 / +265881921726  **Email:** ko.munthali@gmail.com                  
+ **Address:** Kondwani Munthali,
+            Airtel Malawi,
+            Mzuzu Branch,
+            Private bag 145,
+            Mzuzu.
+                                     
